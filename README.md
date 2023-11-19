@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# A React App which showcases the list of movies
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
