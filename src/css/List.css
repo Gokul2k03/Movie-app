@@ -1,0 +1,83 @@
+.movielist{
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 100px 100px 100px 120px;
+}
+
+.addForm{
+    padding: 0 0 50px 0;
+}
+
+.form-list{
+    display: grid;
+}
+
+.add-input{
+    margin-right: 30px;
+    border:0;
+    border-bottom:1px solid #555;  
+    background:transparent;
+    padding:8px 0 5px 0;
+    font-size:16px;
+    color:#fff;
+    display: inline;
+    cursor: auto;
+}
+
+.list-data{
+    margin-right: 50px;
+    padding-bottom: 20px;
+}
+
+.buttons {
+    align-items: center;
+    background-color: transparent;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    color: #fff;
+    font-family: Inter,sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    height: 40px;
+    justify-content: center;
+    line-height: 24px;
+    min-width: 165px;
+    padding: 0 20px;
+    text-align: center;
+    cursor: pointer;
+  }
+
+.edit{
+    align-items: center;
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    font-family: Inter,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    height: 25px;
+    justify-content: center;
+    min-width: 80px;
+    /* padding: 0 20px; */
+    text-align: center;
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.delete{
+    align-items: center;
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    font-family: Inter,sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    height: 25px;
+    justify-content: center;
+    min-width: 80px;
+    /* padding: 0 20px; */
+    text-align: center;
+    cursor: pointer;
+    margin-right: 20px;
+}
