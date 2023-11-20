@@ -8,7 +8,7 @@ function List(){
     const [updateState, setUpdateState] = useState(-1)
     return(
         <div className='movielist'>
-            <div>
+            <div style={{overflowX:'auto'}}>
             <AddList setList = {setList }/>
             <form className="form-list" onSubmit={handleSubmit}>
             <table>
