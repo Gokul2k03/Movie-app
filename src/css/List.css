@@ -81,3 +81,10 @@
     cursor: pointer;
     margin-right: 20px;
 }
+
+
+@media screen and (max-width: 1000px) {
+    .movielist{
+        padding-left: 30px;
+    }
+}
