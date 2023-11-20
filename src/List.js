@@ -149,6 +149,7 @@ function AddList({setList}) {
             <input className="add-input" type="text" name="year" placeholder="Enter year" ref={yearRef}/>
             <input className="add-input" type="text" name="rating" placeholder="Enter rating" ref={ratingRef}/>
             <button className="buttons" type="submit">Add</button>
+            <button className="buttons" type="submit">Filter</button>
         </form>
     )
 }
