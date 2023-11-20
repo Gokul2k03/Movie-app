@@ -32,7 +32,7 @@
   max-width: 600px;
   width: 100%;
   background: #fff;
-  padding: 0 0 0 120px;
+  margin: 0 0 0 120px;
   border-radius: 8px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
@@ -119,6 +119,7 @@
   .inputbox {
     height: 66px;
     width: 350px;
+    margin: 0%;
   }
   .inputbox .search-icon {
     display: none;
